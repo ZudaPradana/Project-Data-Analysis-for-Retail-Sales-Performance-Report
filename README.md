@@ -82,7 +82,6 @@ Pada bagian ini kita akan melakukan analisa terhadap performa penjualan berdasar
       <li>Use condition order status is finished</li>
     </ul>
   <p>
-    <br><br>
 </div>
 
 
@@ -169,7 +168,6 @@ DQLab berharap bahwa burn rate tetap berada diangka maskimum 4.5%
       <li>Use condition order status is finished</li>
     </ul>
   <p>
-  <br><br>
 </div>
 
 
@@ -254,7 +252,6 @@ Pada bagian ini kita akan melakukan analisa terhadap bagaimana aktivitas transak
       <li>Use condition order status is finished</li>
     </ul>
   <p>
-  <br><br>
 </div>
 
 
