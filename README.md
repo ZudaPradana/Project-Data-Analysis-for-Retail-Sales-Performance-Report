@@ -118,7 +118,6 @@ Pada bagian ini kita akan melakukan analisa terhadap performa penjualan berdasar
       <li>Use condition is only in 2011 and order status is finished</li>
     </ul>
   <p>
-    <br><br>
 </div>
 
 ### <b>2. Promotion Effectiveness and Efficiency by Years</b>
@@ -218,7 +217,6 @@ DQLab berharap bahwa burn rate tetap berada diangka maskimum 4.5%
       <li>Use condition is only in 2012 and order status is finished</li>
     </ul>
   <p>
-  <br><br>
 </div>
 
 ### <b>3. Customer Analysis</b>
